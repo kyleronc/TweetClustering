@@ -12,3 +12,5 @@
   
   - outputdata: 
    Contains the feature matrix of tweet document vectors as well as the similarity matrices for both our cosine and jaccard proximity measures
+   
+   - Project 2 Write Up: This is the report portion of the project
